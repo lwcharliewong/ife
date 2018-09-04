@@ -1,2 +1,2 @@
-ad
-sda
+clear
+你好
